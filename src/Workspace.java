@@ -3,6 +3,7 @@
 public class Workspace {
 	
 	
+<<<<<<< HEAD
 	public void methodOne()
 	{
 	System.out.println("first line added in first git")
@@ -13,3 +14,8 @@ public class Workspace {
 	}
 	
 		}
+=======
+	
+	
+		}
+>>>>>>> ea7bcc0... first git code
