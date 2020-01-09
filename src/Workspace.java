@@ -8,4 +8,8 @@ public class Workspace {
 	System.out.println("first line added in first git")
 	}
 	
+	public void methodTwo()
+	{
+	}
+	
 		}
