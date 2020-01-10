@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-=======
-changed
-changed2
-hh
->>>>>>> 3cf08afa4fc52c29a50ce8d6c6b27829e800a67d
