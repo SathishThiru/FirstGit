@@ -1,1 +1,0 @@
-changes made in text fill. now i will use pull from local computer. if it works properly. i will see this entire text in the same file in my local comp
